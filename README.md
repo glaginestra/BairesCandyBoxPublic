@@ -19,11 +19,31 @@ BairesCandyBox es una plataforma de ecommerce que permite a los usuarios registr
 - Carrito de compras y sistema de favoritos.
 - Interfaz responsiva y moderna.
 
-## 🌐 Demo
-Accedé a la aplicación en: [https://bairescandybox.com.ar](https://bairescandybox.com.ar)
+## 🌐 Sitio
+Accedé a la web en: [https://bairescandybox.com.ar](https://bairescandybox.com.ar)
 
 ## 📸 Capturas
-*(Agregá aquí imágenes de la interfaz: home, carrito, panel de productos, etc.)*
+
+### Página principal
+![Home](./screenshots/home.png)
+
+### Login
+![Login](./screenshots/login.png)
+
+### Register
+![Register](./screenshots/register.png)
+
+### Lista de Productos
+![Productos](./screenshots/productos.png)
+
+### Favoritos
+![Favoritos](./screenshots/favoritos.png)
+
+### Carrito de compras
+![Carrito](./screenshots/carrito.png)
+
+### Admin Productos
+![Admin_Prod](./screenshots/admin_prod.png)
 
 ## 📄 Nota
 Este repositorio es una versión pública con fines demostrativos.  

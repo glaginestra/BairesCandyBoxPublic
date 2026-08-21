@@ -3,7 +3,7 @@
 Aplicación web full‑stack orientada a la venta de productos personalizados para eventos.
 
 ## 🚀 Descripción
-BairesCandyBox es una plataforma de ecommerce que permite a los usuarios registrarse, verificar sus cuentas por correo electrónico y gestionar productos personalizados para eventos. Incluye funcionalidades de carrito de compras y favoritos, ofreciendo una experiencia de usuario completa y fluida.
+BairesCandyBox es una plataforma de ecommerce que permite a los usuarios registrarse, verificar sus cuentas por correo electrónico y gestionar productos personalizados para eventos. Incluye funcionalidades de carrito de compras, favoritos y roles(Usuario/Administrador), ofreciendo una experiencia de usuario completa y fluida.
 
 ## 🛠️ Tecnologías utilizadas
 - **Frontend:** React, TailwindCSS
